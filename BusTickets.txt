@@ -1,0 +1,4 @@
+--- BUS TICKET RECORDS (Bus No: 101) ---
+Bus: 101 | Passenger: hansika | Seat: 1
+Bus: 101 | Passenger: lasya | Seat: 2
+Bus: 101 | Passenger: sai | Seat: 3
